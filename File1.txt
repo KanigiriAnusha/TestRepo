@@ -1,4 +1,7 @@
 Hello world!!!
 
-change - to Login feature fsmsrt
-change - done by team mate for WI3
+ HEAD
+change :- to Login feature fsmsrt
+change :- done by team mate for WI3
+change :- for the bug2.
+
